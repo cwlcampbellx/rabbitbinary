@@ -1,0 +1,45 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#masked-binary {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    mask: url('rabbitsvg.svg') no-repeat center / contain;
+    -webkit-mask: url('rabbitsvg.svg') no-repeat center / contain;
+}
+
+#binary-code {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100%;
+    padding: 0 2px;
+}
+
+.column div {
+    color: #0F0;
+    font-family: monospace;
+    font-size: 20px;
+    line-height: 20px;
+}

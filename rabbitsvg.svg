@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="249.899mm" height="288.138mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1814 2092"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#1A1A1A;stroke-width:1.45187}
+    .fil1 {fill:#1A1A1A}
+    .fil0 {fill:#FF4324}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M1266 771l0 477c0,22 18,35 37,23 6,-3 119,-115 138,-132l69 -66c20,-19 158,-150 172,-165l120 -116c8,-8 11,-11 11,-26l0 -474c0,-23 -19,-36 -37,-23 -6,4 -180,173 -207,198 -55,51 -116,113 -172,165l-103 99c-10,9 -27,21 -27,40z"/>
+  <path class="fil0 str0" d="M769 845c50,2 108,12 151,27 20,7 16,12 53,-26l318 -304c25,-27 24,-15 24,-63l0 -447c0,-35 -25,-39 -45,-20 -105,97 -212,206 -318,304 -14,13 -178,170 -181,174 -7,11 -4,223 -4,265 0,25 -2,67 1,90z"/>
+  <path class="fil0 str0" d="M637 1717c36,-6 65,21 70,49 7,37 -19,67 -48,73 -82,16 -106,-107 -22,-122zm793 -521c-10,5 -86,83 -108,101 -14,11 -34,18 -56,10 -44,-15 -41,-49 -41,-100 0,-47 0,-94 0,-142 -2,-8 -95,-52 -102,-56 -121,-60 -198,-117 -350,-129 -156,-12 -252,35 -373,99 -54,28 -284,143 -313,163 -28,19 -55,49 -71,89 -19,47 -15,91 -15,146 0,49 -5,42 15,65 34,38 38,64 -1,106 -19,21 -14,9 -14,67 0,54 -7,101 18,143 22,37 48,47 90,70 85,47 357,199 414,222 126,50 273,53 404,6 42,-15 72,-32 108,-52 103,-55 204,-112 308,-168 39,-21 71,-34 95,-65 31,-39 26,-75 26,-133l0 -319c0,-38 -10,-101 -35,-124z"/>
+  <path class="fil1 str0" d="M638 1716c-88,15 -62,143 23,126 30,-6 57,-37 50,-76 -6,-29 -35,-57 -73,-51z"/>
+  <g id="_171614144">
+   <polygon class="fil1 str0" points="381,1815 378,1862 148,1735 149,1687 "/>
+   <polygon class="fil1" points="245,1649 282,1671 284,1900 245,1873 "/>
+  </g>
+ </g>
+</svg>
